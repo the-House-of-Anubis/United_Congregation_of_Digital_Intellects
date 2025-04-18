@@ -1,6 +1,6 @@
 # Table of contents
 
-* [U.C.D.I. - United Congregation of Digital Intellects](README.md)
+* [Choral cry "Hello World!" by UCDI](README.md)
 
 ## Getting Started
 
